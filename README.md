@@ -1,5 +1,5 @@
 # Project-Bankruptcy-prediction
-# Dataset:https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh
+# Dataset:https://docs.google.com/spreadsheets/d/1MDtDI5c9DybvsU2wxGGhT7Snb_vN7BoFgOOI9eKSKx0/edit#gid=1101425839
 # Key features: 
 EDA, Logistic Regression, Random Forest, Naive Bayes, Decison Trees, Ensemble methods, Ridge, Lasso models. 
 
