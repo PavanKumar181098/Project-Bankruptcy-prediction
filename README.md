@@ -14,3 +14,5 @@ the train-test splitting model is done with the test data being 20% of the datas
 
 # Model Deployment:
 Stremalit api is used to deploy this model.
+![image](https://user-images.githubusercontent.com/108060699/183639747-a0e000b5-e8ba-40ce-89c4-7c9342a6e5e1.png)
+
